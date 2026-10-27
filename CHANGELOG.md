@@ -1,5 +1,9 @@
 # CHANGELOG.md Content
 
+## [0.0.3] - 2026-10-27
+### Added
+- Add comprehensive `rsync` command cheat sheet and full server backup script documentation (`Tools/rsync.md`).
+
 ## [0.0.2] - 2026-08-18
 ### Added
 - New `about.md` page introducing the project and its goals.
